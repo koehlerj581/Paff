@@ -43,7 +43,7 @@
     "periodic-rejoin": {
       "enabled": false,
       "min-interval": 20,
-      "max-interval": 60
+      "max-interval": 60000
     }
   },
   "movement": {
